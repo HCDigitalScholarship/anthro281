@@ -82,6 +82,8 @@ This page is dedicated to providing resources and places of information about th
 
    <https://www.narf.org/cases/arctic-national-wildlife-refuge/>
 
+   *
+   *
    * Timeline of cases against ANCSA
 
    <https://ancsaregional.com/about-ancsa/>
@@ -95,6 +97,8 @@ This page is dedicated to providing resources and places of information about th
    <https://www.washingtonpost.com/outlook/2021/03/14/indigenous-advocacy-transformed-fight-over-oil-drilling-arctic-refuge/>
 
    * Indigenous advocacy transforming drilling in the arctic throughout history
+
+   <https://ourarcticrefuge.org/resources/>--resource bank from Gwich'in Steering Committee  
 5. Gwich’in activism, education on current issues
 
    ![](/assets/media/sarah-james-speaking-during-a-rally-in-dc-2005.jpg)
