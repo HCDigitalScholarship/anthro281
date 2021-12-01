@@ -24,19 +24,7 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
   * The photographer Peter Matther, documents the Gwich’in people of Arctic village and their relationship with the Porcupine Caribou Herd.[](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 * [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html) 
-
-  * <!--StartFragment-->
-
-    Article describes the wilderness of the Arctic National Wildlife Refuge, an effort to capture the scene before impending drilling takes place. Follows a trip shared between the author and arctic guides.
-
-    <!--EndFragment-->
 * [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
-
-  * <!--StartFragment-->
-
-    Details the specifics on how drilling would impact the health of the Caribou and in turn the health of the tribe.
-
-    <!--EndFragment-->
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
 **Gwich'in Voices**
@@ -48,12 +36,6 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
   * A Gwich'in chief discusses the importance of Caribou in this article.
 * [Outside/In Presents The Refuge | Episode 3: Do It in a Good Way](https://www.nhpr.org/environment/2020-08-22/outside-in-presents-the-refuge-episode-3-do-it-in-a-good-way)
 * [Gwich'in Tribe Protects Caribou and Culture](https://whyy.pbslearningmedia.org/resource/ean08.sci.life.eco.gwichin/gwichin-tribe-protects-caribou-and-culture/)
-
-  * <!--StartFragment-->
-
-    Short video in which Evon Peter, the chief of Arctic Village, explains the relationship between the Caribou and the Gwich’in people. Highlights specifically the sacred Caribou calving grounds.
-
-    <!--EndFragment-->
 * [Songs and Stories of Arctic Neets’aii Gwich’in: A Message To The World](https://www.youtube.com/playlist?list=OLAK5uy_kARXYB7tpv-6uWvBK0x_m9DjC2tjVHv3I)
 * [Sacred Steps: Fighting For What’s Sacred In The Arctic National Wildlife Refuge](https://www.kalw.org/show/crosscurrents/2020-09-23/fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge)
 
