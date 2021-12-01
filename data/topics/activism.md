@@ -100,5 +100,3 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
    <https://www.alaskapublic.org/2019/07/02/in-arctic-village-gwichin-leaders-say-the-fight-to-stop-drilling-in-the-arctic-refuge-isnt-over/>
 
    * Stances on oil drilling, pro and against
-
-![](/assets/media/quannah-chasinghorse-1400.jpeg)
