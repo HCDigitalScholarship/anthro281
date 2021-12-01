@@ -1,6 +1,6 @@
 ---
 layout: topic
-title: Who are the Gwich'in
+title: Who Are the Gwich'in?
 ---
 <h1 style="font-size:20px;color:blue;text-align:center;font-family:'Times New Roman'"> "The word “Gwich’in” means “people of the land,” and it refers to a people who have lived in the region since before the U.S. and Canada existed."</h1>
 
