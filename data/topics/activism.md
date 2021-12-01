@@ -40,6 +40,8 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
 
 1. Current activists and their stories
 
+   ![](/assets/media/quannah-chasinghorse-1400.jpeg)
+
    <https://grist.org/article/james1/> and <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james> and <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>
 
 * Sarah James’ story and her reflections on changes to Arctic National Wildlife Refuge and connections to climate change, experience with Sarah James that includes podcast
@@ -98,7 +100,5 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
    <https://www.alaskapublic.org/2019/07/02/in-arctic-village-gwichin-leaders-say-the-fight-to-stop-drilling-in-the-arctic-refuge-isnt-over/>
 
    * Stances on oil drilling, pro and against
-
-
 
 ![](/assets/media/quannah-chasinghorse-1400.jpeg)
