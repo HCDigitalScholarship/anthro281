@@ -55,6 +55,12 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
     <!--EndFragment-->
 * [Songs and Stories of Arctic Neets’aii Gwich’in: A Message To The World](https://www.youtube.com/playlist?list=OLAK5uy_kARXYB7tpv-6uWvBK0x_m9DjC2tjVHv3I)
+
+  * <!--StartFragment-->
+
+    A collection of Gwich’in stories told through song. Many songs feature the Caribou and other animals as well as community love and empowerment.
+
+    <!--EndFragment-->
 * [Sacred Steps: Fighting For What’s Sacred In The Arctic National Wildlife Refuge](https://www.kalw.org/show/crosscurrents/2020-09-23/fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge)
 
   * This is a podcast episode where Sarah James, a prolific elder of the Gwich'in people, discusses the caribou and why they need to be protected.
@@ -64,7 +70,19 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 **Direct Activism**
 
 * [The Gwich’in Oppose Oil Development in the Arctic National Wildlife Refuge](https://www.youtube.com/watch?v=aG3N8kIxaro&t=138s) [](https://www.youtube.com/watch?v=A4DH5cK37Y8)
+
+  * <!--StartFragment-->
+
+    Short video declaring the Gwich’in peoples’ right to live on the land without the threat of drilling as they have for thousands of years, featuring Faith Gemmill, Neets’aii Gwich’in.
+
+    <!--EndFragment-->
 * [Alaska’s Porcupine Caribou Herd – and the People It Helps Sustain](https://deeply.thenewhumanitarian.org/arctic/articles/2017/06/09/alaskas-porcupine-caribou-herd-and-the-people-it-helps-sustain)
+
+  * <!--StartFragment-->
+
+    Article offers a closeup of the Porcupine Caribou Herd and their calving ground, followed by a personal account from Paul Josie, Gwich’in Old Crow community member.
+
+    <!--EndFragment-->
 * [The Refuge: Fighting For A Way Of Life](https://www.youtube.com/watch?v=A4DH5cK37Y8) 
 
 **Porcupine Caribou Herd Information**
