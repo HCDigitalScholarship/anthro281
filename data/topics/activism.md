@@ -1,9 +1,8 @@
 ---
 layout: topic
 title: Gwich'in Activism, Past and Present
+thumbnail: /assets/media/gwich-in-steering-committee.png
 ---
-
-
 ```
  <section id="portfolio" class="portfolio">
   <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
@@ -39,8 +38,6 @@ title: Gwich'in Activism, Past and Present
    </section>
 ```
 
-
-
 1. Current activists and their stories
 
    <https://grist.org/article/james1/> and <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james> and <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>
@@ -66,8 +63,6 @@ title: Gwich'in Activism, Past and Present
    <https://www.wilderness.org/articles/blog/alaska-natives-frontline-another-lands-battle>
 
    * Alaskan Natives unite against Trump
-
-     ![](/assets/media/featured.jpg)
 3. Gwich’in Steering Committee: who are they and what are their goals 
 
    <https://ourarcticrefuge.org/gwichin-steering-committee/>
@@ -90,8 +85,6 @@ title: Gwich'in Activism, Past and Present
    <https://www.washingtonpost.com/outlook/2021/03/14/indigenous-advocacy-transformed-fight-over-oil-drilling-arctic-refuge/>
 
    * Indigenous advocacy transforming drilling in the arctic throughout history
-
-     ![](/assets/media/download.jpg)
 5. Gwich’in activism, education on current issues
 
    <https://www.protectthearctic.org/educational-resources>
@@ -106,4 +99,6 @@ title: Gwich'in Activism, Past and Present
 
    * Stances on oil drilling, pro and against
 
-     ![](/assets/media/20181211_haaland_ruskin-edited.jpg)
+
+
+![](/assets/media/quannah-chasinghorse-1400.jpeg)
