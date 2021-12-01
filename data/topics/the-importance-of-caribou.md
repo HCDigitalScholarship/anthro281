@@ -39,6 +39,12 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
     <!--EndFragment-->
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
+  * <!--StartFragment-->
+
+    A conversation between an Alaska Magazine representative and the Gwich’in Hunter Charles Swaney about the Gwich’in people’s strong connection to the Porcupine Caribou Herd in the Arctic Village.
+
+    <!--EndFragment-->
+
 **Gwich'in Voices**
 
 <!--StartFragment-->
