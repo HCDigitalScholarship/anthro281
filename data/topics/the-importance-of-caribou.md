@@ -91,6 +91,12 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
     <!--EndFragment-->
 * [The Refuge: Fighting For A Way Of Life](https://www.youtube.com/watch?v=A4DH5cK37Y8) 
 
+  * <!--StartFragment-->
+
+    Video by Patagonia on the Gwich’in fight against drilling and the threat that it poses to families, as detailed by Bernadette Demientieff and Princess Daazhraii Johnson of Gwich’in Steering Committee. Also features some words from Sarah James, Gwich’in Elder and Activist.
+
+    <!--EndFragment-->
+
 **Porcupine Caribou Herd Information**
 
 <!--StartFragment-->
