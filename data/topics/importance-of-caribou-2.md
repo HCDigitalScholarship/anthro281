@@ -21,10 +21,8 @@ title: Importance of Caribou 2
   * This article provides deep insight into the relationship between the people and the caribou.
 * [Peter Mather Photography: Caribou People](https://www.petermather.com/Caribou-People-1/)
 
-  * The photographer Peter Matther, documents the Gwich’in people of arctic village and their relationship with the Porcupine Caribou Herd.[](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
-* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)
-
-  * New York Times article 
+  * The photographer Peter Matther, documents the Gwich’in people of Arctic village and their relationship with the Porcupine Caribou Herd.[](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
+* [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html) 
 * [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
