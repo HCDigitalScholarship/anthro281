@@ -9,15 +9,16 @@ The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous t
 Gwich’in cultural resources/websites:
 
 The Gwich’in Steering Committee:
-https://ourarcticrefuge.org/about-the-gwichin/ 
+<a href=”https://ourarcticrefuge.org/about-the-gwichin/”>
 The website of the Gwich’in Steering Committee, which is speaking out against oil drilling on the coastal plain of the Arctic National Wildlife Refuge - “The Sacred Place Where Life Begins.”
 
 Smithsonian Magazine: “For the Gwich’in People, the Arctic National Wildlife Refuge Isn’t a Political Issue, It’s Home”
-https://www.smithsonianmag.com/science/gwichin-people-arctic-national-wildlife-refuge-180979001/ 
+<a href=”https://www.smithsonianmag.com/science/gwichin-people-arctic-national-wildlife-refuge-180979001/">
 This article describes caribou migration in the Arctic National Wildlife Refuge, as well as their importance to the Gwich’in communities.
 
 “‘We Are Having a Hard Time Surviving’ Gwich’in Elder Sarah James on How Climate Change is Altering Life in the Alaskan Arctic”
-https://www.youtube.com/watch?v=-90IRnL49jA
+<a href=”https://www.youtube.com/watch?v=-90IRnL49jA”>
+
 Short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
 The Alaska Native Language Center:
