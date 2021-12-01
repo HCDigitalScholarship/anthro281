@@ -48,6 +48,12 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
   * A Gwich'in chief discusses the importance of Caribou in this article.
 * [Outside/In Presents The Refuge | Episode 3: Do It in a Good Way](https://www.nhpr.org/environment/2020-08-22/outside-in-presents-the-refuge-episode-3-do-it-in-a-good-way)
 * [Gwich'in Tribe Protects Caribou and Culture](https://whyy.pbslearningmedia.org/resource/ean08.sci.life.eco.gwichin/gwichin-tribe-protects-caribou-and-culture/)
+
+  * <!--StartFragment-->
+
+    Short video in which Evon Peter, the chief of Arctic Village, explains the relationship between the Caribou and the Gwich’in people. Highlights specifically the sacred Caribou calving grounds.
+
+    <!--EndFragment-->
 * [Songs and Stories of Arctic Neets’aii Gwich’in: A Message To The World](https://www.youtube.com/playlist?list=OLAK5uy_kARXYB7tpv-6uWvBK0x_m9DjC2tjVHv3I)
 * [Sacred Steps: Fighting For What’s Sacred In The Arctic National Wildlife Refuge](https://www.kalw.org/show/crosscurrents/2020-09-23/fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge)
 
