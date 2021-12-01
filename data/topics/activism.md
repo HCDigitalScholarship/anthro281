@@ -82,8 +82,6 @@ This page is dedicated to providing resources and places of information about th
 
    <https://www.narf.org/cases/arctic-national-wildlife-refuge/>
 
-   *
-   *
    * Timeline of cases against ANCSA
 
    <https://ancsaregional.com/about-ancsa/>
