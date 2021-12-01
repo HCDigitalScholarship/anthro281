@@ -24,6 +24,12 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
   * The photographer Peter Matther, documents the Gwich’in people of Arctic village and their relationship with the Porcupine Caribou Herd.[](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html)[](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 * [Exploring a Timeless Wilderness, Before the Drilling Begins](https://www.nytimes.com/2019/09/09/travel/alaska-arctic-national-wildlife-refuge.html) 
+
+  * <!--StartFragment-->
+
+    Article describes the wilderness of the Arctic National Wildlife Refuge, an effort to capture the scene before impending drilling takes place. Follows a trip shared between the author and arctic guides.
+
+    <!--EndFragment-->
 * [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
