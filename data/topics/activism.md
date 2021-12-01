@@ -71,9 +71,9 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
 
    ![](/assets/media/gwich-in-steering-committee-pt.2.jpeg)
 
-   <https://ourarcticrefuge.org/gwichin-steering-committee/>
+   <https://ourarcticrefuge.org/gwichin-steering-committee/>--direct link to Gwich/in Steering Committee website 
 
-   <https://ourarcticrefuge.org/wp-content/uploads/2012/10/GG-Resol.-2012-1.pdf>
+   <https://ourarcticrefuge.org/wp-content/uploads/2012/10/GG-Resol.-2012-1.pdf>--"Resolution to Protect the Birthplace and Nursery Grounds of the Porcupine Caribou Herd"
 4. History of activism and case against ANSCA
 
    ![](/assets/media/download.jpg)
