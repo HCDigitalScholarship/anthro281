@@ -54,6 +54,8 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
 
 2. Gwich’in response to trump’s sale of land
 
+   ![](/assets/media/featured.jpg)
+
    <https://www.culturalsurvival.org/news/gwichin-steering-committee-responds-trumps-sale-sacred-lands-arctic-refuge>
 
    * Gwich’in statement in response to Trump’s sale of sacred land  
@@ -67,10 +69,14 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
    * Alaskan Natives unite against Trump
 3. Gwich’in Steering Committee: who are they and what are their goals 
 
+   ![](/assets/media/gwich-in-steering-committee-pt.2.jpeg)
+
    <https://ourarcticrefuge.org/gwichin-steering-committee/>
 
    <https://ourarcticrefuge.org/wp-content/uploads/2012/10/GG-Resol.-2012-1.pdf>
 4. History of activism and case against ANSCA
+
+   ![](/assets/media/download.jpg)
 
    <https://www.narf.org/cases/arctic-national-wildlife-refuge/>
 
@@ -88,6 +94,8 @@ thumbnail: /assets/media/gwich-in-steering-committee.png
 
    * Indigenous advocacy transforming drilling in the arctic throughout history
 5. Gwich’in activism, education on current issues
+
+   ![](/assets/media/sarah-james-speaking-during-a-rally-in-dc-2005.jpg)
 
    <https://www.protectthearctic.org/educational-resources>
 
