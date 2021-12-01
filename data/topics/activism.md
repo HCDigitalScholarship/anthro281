@@ -1,6 +1,7 @@
 ---
 layout: topic
 title: Gwich'in Activism, Past and Present
+thumbnail: /assets/media/gwich-in-steering-committee.png
 ---
 ```
  <section id="portfolio" class="portfolio">
