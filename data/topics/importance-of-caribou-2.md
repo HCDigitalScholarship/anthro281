@@ -1,6 +1,7 @@
 ---
 layout: topic
 title: Importance of Caribou 2
+thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 ---
 ## *"We have a right to be caribou people. We believe God put us here to take care of this part of the world"*
 
