@@ -44,7 +44,7 @@ This page is dedicated to providing resources and places of information about th
 
 1. Current activists and their stories
 
-   ![](/assets/media/quannah-chasinghorse-1400.jpeg)
+   ![](/assets/media/quannah-chasinghorse-1400.jpeg "*  <https://www.yesmagazine.org/environment/2020/09/24/alaska-indigenous-rights-anwr>")
 
    <https://grist.org/article/james1/> and <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james> and <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>
 
@@ -58,7 +58,7 @@ This page is dedicated to providing resources and places of information about th
 
 2. Gwich’in response to trump’s sale of land
 
-   ![](/assets/media/featured.jpg)
+   ![](/assets/media/featured.jpg "https://www.breitbart.com/politics/2011/05/16/meet-obamas-new-energy-plan-same-as-the-old-plan/")
 
    <https://www.culturalsurvival.org/news/gwichin-steering-committee-responds-trumps-sale-sacred-lands-arctic-refuge>
 
@@ -73,14 +73,14 @@ This page is dedicated to providing resources and places of information about th
    * Alaskan Natives unite against Trump
 3. Gwich’in Steering Committee: who are they and what are their goals 
 
-   ![](/assets/media/gwich-in-steering-committee-pt.2.jpeg)
+   ![](/assets/media/gwich-in-steering-committee-pt.2.jpeg "https://trustees.org/interior-disregards-human-rights-in-rush-to-lease-refuge/")
 
    <https://ourarcticrefuge.org/gwichin-steering-committee/>--direct link to Gwich/in Steering Committee website 
 
    <https://ourarcticrefuge.org/wp-content/uploads/2012/10/GG-Resol.-2012-1.pdf>--"Resolution to Protect the Birthplace and Nursery Grounds of the Porcupine Caribou Herd"
 4. History of activism and case against ANSCA
 
-   ![](/assets/media/download.jpg)
+   ![](/assets/media/download.jpg "https://en.wikipedia.org/wiki/Alaska_Native_Claims_Settlement_Act")
 
    <https://www.narf.org/cases/arctic-national-wildlife-refuge/>
 
@@ -101,7 +101,7 @@ This page is dedicated to providing resources and places of information about th
    <https://ourarcticrefuge.org/resources/>--resource bank from Gwich'in Steering Committee  
 5. Gwich’in activism, education on current issues
 
-   ![](/assets/media/sarah-james-speaking-during-a-rally-in-dc-2005.jpg)
+   ![](/assets/media/sarah-james-speaking-during-a-rally-in-dc-2005.jpg "https://ourarcticrefuge.org/photo-gallery/")
 
    <https://www.protectthearctic.org/educational-resources>
 
