@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("https://static01.nyt.com/images/2020/03/01/travel/01alaska/01alaska-mediumSquareAt3X.jpg") top center;
   background-size: cover;
   position: relative;
 }
