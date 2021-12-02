@@ -965,7 +965,7 @@ section {
 }
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(61, 202, 96, 0.6);
+  background: rgba(15, 117, 41, 0.541);
   position: absolute;
   left: 30px;
   right: 30px;
