@@ -965,7 +965,7 @@ section {
 }
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(36, 135, 206, 0.6);
+  background: rgba(61, 202, 96, 0.6);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -1310,7 +1310,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #87c1ea;
+  color: #259469;
 }
 .faq .faq-list .icon-show, .faq .faq-list .icon-close {
   font-size: 24px;
@@ -1329,7 +1329,7 @@ section {
   color: #343a40;
 }
 .faq .faq-list a.collapsed:hover {
-  color: #2487ce;
+  color: #034d03;
 }
 .faq .faq-list a.collapsed .icon-show {
   display: inline-block;
