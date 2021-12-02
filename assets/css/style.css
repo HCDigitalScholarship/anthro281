@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2487ce;
+  background: #06a75c;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .logo a {
-  color: #16507b;
+  color: #0c7a28;
 }
 #header .logo img {
   max-height: 40px;
