@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 300;
   letter-spacing: 0.5px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #header .logo a {
   color: #0c7a28;
