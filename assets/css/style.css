@@ -1620,7 +1620,7 @@ section {
   font-size: 16px;
   padding: 0 20px 2px 20px;
   background: #2487ce;
-  color: #fff;
+  color: rgb(8, 8, 8);
   transition: 0.3s;
   border-radius: 0 5px 5px 0;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
