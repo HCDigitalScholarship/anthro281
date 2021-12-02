@@ -1253,11 +1253,11 @@ section {
   border: 2px solid #2487ce;
 }
 .pricing .box .btn-buy:hover {
-  background: #2487ce;
+  background: #159b2c;
   color: #fff;
 }
 .pricing .featured {
-  background: #2487ce;
+  background: #35ad17;
 }
 .pricing .featured h3, .pricing .featured h4, .pricing .featured h4 span, .pricing .featured ul, .pricing .featured ul .na {
   color: #fff;
@@ -1352,7 +1352,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  color: #2487ce;
+  color: #129712;
   float: left;
   width: 44px;
   height: 44px;
@@ -1374,13 +1374,13 @@ section {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #217bbc;
+  color: #129712;
 }
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #2487ce;
+  background: #129712;
   color: #fff;
 }
 .contact .php-email-form {
