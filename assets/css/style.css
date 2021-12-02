@@ -528,10 +528,10 @@ section {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #2487ce;
+  border: 2px solid #034d03;
 }
 .about .content .btn-learn-more:hover {
-  background: #2487ce;
+  background: #034d03;
   color: #fff;
   text-decoration: none;
 }
@@ -952,7 +952,7 @@ section {
   transition: all 0.3s ease-in-out;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  color: #2487ce;
+  color: #03b430;
 }
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
