@@ -1564,7 +1564,7 @@ section {
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #000000;
+  color: #fff;
   font-size: 18px;
   line-height: 1;
 }
@@ -1584,7 +1584,7 @@ section {
 }
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #2487ce;
+  color: #129712;
 }
 #footer .footer-newsletter {
   font-size: 15px;
