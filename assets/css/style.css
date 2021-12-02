@@ -1619,7 +1619,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #2487ce;
+  background: #fff;
   color: rgb(8, 8, 8);
   transition: 0.3s;
   border-radius: 0 5px 5px 0;
@@ -1631,7 +1631,7 @@ section {
 #footer .credits {
   padding-top: 5px;
   font-size: 13px;
-  color: #fff;
+  color: #000000;
 }
 #footer .social-links a {
   font-size: 18px;
