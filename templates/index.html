@@ -1,463 +1,501 @@
 {% extends 'base.html' %}
 {% block content %}
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
-    <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
-      <div class="row justify-content-center">
-        <div class="col-xl-7 col-lg-9 text-center">
-          <h1>Nature/Culture</h1>
-          <h2>A collaborative resource for information on the people and nature of the Arctic National Wildlife Refuge </h2>
-        </div>
-      </div>
-      
-
-      <div class="row icon-boxes">
-       {% for t in topics %}
-        <div class="col-md-6 col-lg-3 align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
-          <div class="icon-box">
-            <div class="icon"><i class="ri-earth-fill"></i></div>
-            <h4 class="title"><a href="/topic/{{t.stem}}">{{ t.title }}</a></h4>
-            
-          </div>
-        </div>
-       {% endfor %}
-     
-        
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+  <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+    <div class="row justify-content-center">
+      <div class="col-xl-7 col-lg-9 text-center">
+        <h1>Nature/Culture</h1>
+        <h2>A collaborative resource for information on the people and nature of the Arctic National Wildlife Refuge
+        </h2>
       </div>
     </div>
-  </section><!-- End Hero -->
 
-  <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
+    <div class="row icon-boxes">
+      {% for t in topics %}
+      <div class="col-md-6 col-lg-3 align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
+        <a style=" display: block; height: 100%; width: 100%; text-decoration: none;" href="/topic/{{t.stem}}">
 
-        <div class="section-title">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. </p>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-              <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-              <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-              culpa qui officia deserunt mollit anim id est laborum.
-            </p>
-            <a href="#" class="btn-learn-more">Learn More</a>
-          </div>
-        </div>
-
+          <div class="icon-box">
+            <div class="icon"><i class="ri-earth-fill"></i></div>
+            <h4 class="title">{{ t.title }}
+        </a></h4>
       </div>
-    </section><!-- End About Section -->
-   
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <h2>Links</h2>
-        </div>
+      </a>
+    </div>
 
-        <div class="row" data-aos="fade-up" data-aos-delay="150">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-Gwich'in">Gwich'in</li>
-              <li data-filter=".filter-Caribou">Caribou</li>
-              <li data-filter=".filter-Alaska">Alaska</li>
-            </ul>
-          </div>
-        </div>
+    {% endfor %}
 
-        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
-            <div class="portfolio-wrap">
-              <img src="http://www.alaskawild.org/wp-content/uploads/2018/01/Patagonia-TFB-blog-2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Gwich'in</h4>
-                <p>Gwich'in</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+  </div>
+  </div>
+</section><!-- End Hero -->
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
-            <div class="portfolio-wrap">
-              <img src="https://www.reform-magazine.co.uk/wp-content/uploads/2015/09/arctic_village.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Alaska</h4>
-                <p>Alaska</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+<main id="main">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
-            <div class="portfolio-wrap">
-              <img src="https://rccl-h.assetsadobe.com/is/image/content/dam/royal/content/destinations/alaska/alaska-ocean-and-snow-mountains.jpg?$880x1428$" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Alaska</h4>
-                <p>Alaska</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+  <!-- ======= About Section ======= -->
+  <section id="about" class="about">
+    <div class="container" data-aos="fade-up">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
-            <div class="portfolio-wrap">
-              <img src="https://alaskamagazine.com//wp-content/uploads/2019/01/Caribou2.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Caribou</h4>
-                <p>Caribou</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
-            <div class="portfolio-wrap">
-              <img src="https://alaskamagazine.com//wp-content/uploads/2019/01/Caribou3.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Caribou</h4>
-                <p>Caribou</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
-            <div class="portfolio-wrap">
-              <img src="https://www.arctictoday.com/wp-content/uploads/2018/01/10-Caribou_graze_on_the_coastal_plain-1024x662.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Caribou</h4>
-                <p>Caribou</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
-            <div class="portfolio-wrap">
-              <img src="https://www.alaskawild.org/wp-content/uploads/2016/07/Evon-Peter-Gwichin-children.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Gwich'in 1</h4>
-                <p>Gwich'in</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
-            <div class="portfolio-wrap">
-              <img src="https://thehill.com/sites/default/files/alaskanrefuge11252020.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Alaska</h4>
-                <p>Alaska</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
-            <div class="portfolio-wrap">
-              <img src="https://ourarcticrefuge.org/wp-content/gallery/gwichin-people/jimmy-john-bringing-moose-meat-on-east-fork-of-chandalar-river-near-arctic-village-2002.jpg" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Gwich'in</h4>
-                <p>Gwich'in</p>
-                <div class="portfolio-links">
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
+      <div class="section-title">
+        <h2>About Us</h2>
+        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. </p>
       </div>
-    </section><!-- End Portfolio Section -->
 
-    <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Team</h2>
-          <p>Hey friends! We are the team responsible for this website. This was a final project for the Intro to Environmental Anthropology Class offered at Haverford College. We aim to spread and amplify the Gwich’in community and their voices.</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Team Section -->
-
-    
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-          <p></p>
-        </div>
-
-        <div class="faq-list">
+      <div class="row content">
+        <div class="col-lg-6">
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+            dolore
+            magna aliqua.
+          </p>
           <ul>
-            <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Who are the Gwich'in?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                <p>
-                  The Gwich'in are the northernmost Indian Nation living in fifteen small villages scattered across a vast area extending from northeast Alaska in the U.S. to the northern Yukon and Northwest Territories in Canada. Best known for their efforts of protecting the sacred place "where life begins"
-                </p>
-              </div>
-            </li>
+            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+            <li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
+            <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
+          </ul>
+        </div>
+        <div class="col-lg-6 pt-4 pt-lg-0">
+          <p>
+            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+            culpa qui officia deserunt mollit anim id est laborum.
+          </p>
+          <a href="#" class="btn-learn-more">Learn More</a>
+        </div>
+      </div>
 
-            <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">What is the relationship between the Gwich'in and the caribou?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  The Gwich'in creation story tells that long ago, the Gwich'in and the caribou were one. As they separated into two beings, they became relatives and made an agreement. The land would sustain the caribou and the caribou would sustain the people.
-                </p>
-              </div>
-            </li>
+    </div>
+  </section><!-- End About Section -->
 
-            <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">What are Gwich'in activist aiming to protect?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  The Gwich'in Nation vows to protect sacred lands in the Arctic Refuge. The Gwich'in Nation vowed to protect sacred lands today after the Bureau of Land Management released a Final Environmental Impact Statement promoting oil & gas exploitation in the Arctic National Wildlife Refuge.
-                </p>
-              </div>
-            </li>
+  <!-- ======= Portfolio Section ======= -->
+  <section id="portfolio" class="portfolio">
+    <div class="container" data-aos="fade-up">
 
-            <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Why is it bad to drill for oil in Alaska? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Offshore drilling for crude oil or natural gas in Arctic conditions has many inherent risks: immediate spills of the petroleum product, transport and release of invasive plant and animal species of drilling equipment, damage to wildlife, and discharge of trash and other debris.
-                </p>
-              </div>
-            </li>
 
-            <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
-                </p>
-              </div>
-            </li>
+      <div class="row" data-aos="fade-up" data-aos-delay="150">
+        <div class="col-lg-12 d-flex justify-content-center">
+          <ul id="portfolio-flters">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-Gwich'in">Gwich'in</li>
+            <li data-filter=".filter-Caribou">Caribou</li>
+            <li data-filter=".filter-Alaska">Alaska</li>
+          </ul>
+        </div>
+      </div>
 
+      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
+          <div class="portfolio-wrap">
+            <img src="http://www.alaskawild.org/wp-content/uploads/2018/01/Patagonia-TFB-blog-2.jpg" class="img-fluid"
+              alt="">
+            <div class="portfolio-info">
+              <h4>Gwich'in</h4>
+              <p>Gwich'in</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
+          <div class="portfolio-wrap">
+            <img src="https://www.reform-magazine.co.uk/wp-content/uploads/2015/09/arctic_village.jpg" class="img-fluid"
+              alt="">
+            <div class="portfolio-info">
+              <h4>Alaska</h4>
+              <p>Alaska</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
+          <div class="portfolio-wrap">
+            <img
+              src="https://rccl-h.assetsadobe.com/is/image/content/dam/royal/content/destinations/alaska/alaska-ocean-and-snow-mountains.jpg?$880x1428$"
+              class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Alaska</h4>
+              <p>Alaska</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
+          <div class="portfolio-wrap">
+            <img src="https://alaskamagazine.com//wp-content/uploads/2019/01/Caribou2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Caribou</h4>
+              <p>Caribou</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
+          <div class="portfolio-wrap">
+            <img src="https://alaskamagazine.com//wp-content/uploads/2019/01/Caribou3.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Caribou</h4>
+              <p>Caribou</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Caribou">
+          <div class="portfolio-wrap">
+            <img
+              src="https://www.arctictoday.com/wp-content/uploads/2018/01/10-Caribou_graze_on_the_coastal_plain-1024x662.jpg"
+              class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Caribou</h4>
+              <p>Caribou</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
+          <div class="portfolio-wrap">
+            <img src="https://www.alaskawild.org/wp-content/uploads/2016/07/Evon-Peter-Gwichin-children.jpg"
+              class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Gwich'in 1</h4>
+              <p>Gwich'in</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Alaska">
+          <div class="portfolio-wrap">
+            <img src="https://thehill.com/sites/default/files/alaskanrefuge11252020.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Alaska</h4>
+              <p>Alaska</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-Gwich'in">
+          <div class="portfolio-wrap">
+            <img
+              src="https://ourarcticrefuge.org/wp-content/gallery/gwichin-people/jimmy-john-bringing-moose-meat-on-east-fork-of-chandalar-river-near-arctic-village-2002.jpg"
+              class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Gwich'in</h4>
+              <p>Gwich'in</p>
+              <div class="portfolio-links">
+                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Portfolio Section -->
+
+  <!-- ======= Team Section ======= -->
+  <section id="team" class="team section-bg">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Team</h2>
+        <p>Hey friends! We are the team responsible for this website. This was a final project for the Intro to
+          Environmental Anthropology Class offered at Haverford College. We aim to spread and amplify the Gwich’in
+          community and their voices.</p>
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="member">
+            <div class="member-img">
+              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Walter White</h4>
+              <span>Chief Executive Officer</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="member">
+            <div class="member-img">
+              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Sarah Jhonson</h4>
+              <span>Product Manager</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="member-img">
+              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>William Anderson</h4>
+              <span>CTO</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+          <div class="member">
+            <div class="member-img">
+              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href=""><i class="bi bi-twitter"></i></a>
+                <a href=""><i class="bi bi-facebook"></i></a>
+                <a href=""><i class="bi bi-instagram"></i></a>
+                <a href=""><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Amanda Jepson</h4>
+              <span>Accountant</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Team Section -->
+
+
+  <!-- ======= Frequently Asked Questions Section ======= -->
+  <section id="faq" class="faq section-bg">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Frequently Asked Questions</h2>
+        <p></p>
+      </div>
+
+      <div class="faq-list">
+        <ul>
+          <li data-aos="fade-up">
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
+              data-bs-target="#faq-list-1">Who are the Gwich'in?<i class="bx bx-chevron-down icon-show"></i><i
+                class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
+              <p>
+                The Gwich'in are the northernmost Indian Nation living in fifteen small villages scattered across a vast
+                area extending from northeast Alaska in the U.S. to the northern Yukon and Northwest Territories in
+                Canada. Best known for their efforts of protecting the sacred place "where life begins"
+              </p>
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="100">
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2"
+              class="collapsed">What is the relationship between the Gwich'in and the caribou?<i
+                class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                The Gwich'in creation story tells that long ago, the Gwich'in and the caribou were one. As they
+                separated into two beings, they became relatives and made an agreement. The land would sustain the
+                caribou and the caribou would sustain the people.
+              </p>
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="200">
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3"
+              class="collapsed">What are Gwich'in activist aiming to protect?<i
+                class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                The Gwich'in Nation vows to protect sacred lands in the Arctic Refuge. The Gwich'in Nation vowed to
+                protect sacred lands today after the Bureau of Land Management released a Final Environmental Impact
+                Statement promoting oil & gas exploitation in the Arctic National Wildlife Refuge.
+              </p>
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="300">
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4"
+              class="collapsed">Why is it bad to drill for oil in Alaska? <i class="bx bx-chevron-down icon-show"></i><i
+                class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Offshore drilling for crude oil or natural gas in Arctic conditions has many inherent risks: immediate
+                spills of the petroleum product, transport and release of invasive plant and animal species of drilling
+                equipment, damage to wildlife, and discharge of trash and other debris.
+              </p>
+            </div>
+          </li>
+
+          <li data-aos="fade-up" data-aos-delay="400">
+            <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5"
+              class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem
+              dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+            <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
+              <p>
+                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada
+                nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis
+                tellus in metus vulputate eu scelerisque.
+              </p>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+
+    </div>
+  </section><!-- End Frequently Asked Questions Section -->
+
+  <!-- ======= Contact Section ======= -->
+  <section id="contact" class="contact">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-title">
+        <h2>Contact</h2>
+        <p>Please feel free to contact us with any questions and concerns regarding our collection of information. We
+          will try our best to respond within a timely manner. We hope that you enjoyed the website as much as we
+          enjoyed creating it. </p>
+      </div>
+
+
+      <div class="row mt-5">
+
+        <div class="col-lg-8 mt-5 mt-lg-0">
+
+          <form action="/" name="contact" method="POST" role="form" data-netlify="true">
+            <div class="row">
+              <div class="form-group mt-3">
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+              </div>
+              <div class="form-group mt-3">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+              </div>
+            </div>
+            <div class="form-group mt-3">
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+            </div>
+            <div class="form-group mt-3">
+              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+            </div>
+
+            <div class="text-center"><button class="btn btn-primary" type="submit">Send Message</button></div>
+          </form>
+
+        </div>
+
+      </div>
+
+    </div>
+  </section><!-- End Contact Section -->
+
+</main><!-- End #main -->
+
+{% endblock %}
+<!-- ======= Footer ======= -->
+<footer id="footer">
+
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 footer-contact">
+          <h3>OnePage</h3>
+          <p>
+            Haverford College <br>
+            Philadelphia, PA<br>
+            United States <br><br>
+            <strong>Phone:</strong> probably no phone<br>
+            <strong>Email:</strong> not sure? <br>
+          </p>
+        </div>
+
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
           </ul>
         </div>
 
-      </div>
-    </section><!-- End Frequently Asked Questions Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Contact</h2>
-          <p>Please feel free to contact us with any questions and concerns regarding our collection of information. We will try our best to respond within a timely manner. We hope that you enjoyed the website as much as we enjoyed creating it. </p>
-        </div>
-
-        
-        <div class="row mt-5">
-
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="/" name="contact" method="POST" role="form" data-netlify="true">
-              <div class="row">
-                <div class="form-group mt-3">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                  </div>
-                  <div class="form-group mt-3">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              
-              <div class="text-center"><button class="btn btn-primary" type="submit">Send Message</button></div>
-            </form>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
-
-{% endblock %}
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>OnePage</h3>
-            <p>
-              Haverford College <br>
-              Philadelphia, PA<br>
-              United States <br><br>
-              <strong>Phone:</strong> probably no phone<br>
-              <strong>Email:</strong> not sure? <br>
-            </p>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-      
-
-        </div>
       </div>
     </div>
+  </div>
 
-    <div class="container d-md-flex py-4">
+  <div class="container d-md-flex py-4">
 
-      <div class="me-md-auto text-center text-md-start">
-        
-        
-      </div>
-      
+    <div class="me-md-auto text-center text-md-start">
+
+
     </div>
-  </footer><!-- End Footer -->
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  </div>
+</footer><!-- End Footer -->
 
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
+<div id="preloader"></div>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+    class="bi bi-arrow-up-short"></i></a>
 
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+<!-- Vendor JS Files -->
+<script src="assets/vendor/purecounter/purecounter.js"></script>
+<script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
 
 </body>
 
