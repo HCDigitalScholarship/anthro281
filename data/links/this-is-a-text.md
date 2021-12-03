@@ -1,11 +1,9 @@
 ---
-title: This is a text
-description: This is the description
+title: This is a link
+description: Here I am,  a link
 link: https://www.haverford.edu
 thumbnail: /assets/img/hero-bg.jpg
-topic: The Importance of Caribou
+topic: ANWR
 filters:
-  - fish
-  - toast
-  - bagels
+  - links
 ---
