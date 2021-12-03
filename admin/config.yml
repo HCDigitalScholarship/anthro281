@@ -21,7 +21,8 @@ collections:
     folder: "data/links"
     create: true
     fields: 
-      - {label: "Link Text", name: "text", widget: "text"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
       - {label: "URL", name: "link", widget: "text"}
       - label: "Featured Image"
         name: "thumbnail"
@@ -38,3 +39,7 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         display_fields: ["title"]
+      - label: "Filters"
+        name: "filters"
+        widget: "list"
+        default: []
