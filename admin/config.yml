@@ -16,4 +16,25 @@ collections:
       - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
-      
+  - name: "link"
+    label: "Link"
+    folder: "data/links"
+    create: true
+    fields: 
+      - {label: "Link Text", name: "text", widget: "text"}
+      - {label: "URL", name: "link", widget: "text"}
+      - label: "Featured Image"
+        name: "thumbnail"
+        widget: "image"
+        choose_url: true
+        default: "/assets/img/hero-bg.jpg"
+        media_library:
+          config:
+            multiple: true
+      - label: "Topic Page"
+        name: "topic"
+        widget: "relation"
+        collection: "topic"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
