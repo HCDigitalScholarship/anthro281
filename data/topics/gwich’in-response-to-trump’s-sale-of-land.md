@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Gwich’in Response to Trump’s Sale of Land
-thumbnail: /assets/media/featured.jpg
+thumbnail: ""
 ---
 <https://www.culturalsurvival.org/news/gwichin-steering-committee-responds-trumps-sale-sacred-lands-arctic-refuge>
 
