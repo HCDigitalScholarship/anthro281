@@ -5,8 +5,6 @@ thumbnail: ""
 ---
 Note: The layers and boundaries included on the below ArcGIS maps are not exact and are provided for the purposes of comparison and visualization.
 
-[Link to ArcGIS Maps](https://arcg.is/G515e0)
-
 (<https://www.sfgate.com/green/article/THE-LAST-REFUGE-Caribou-migration-drilling-2614084.php#photo-2100858>)
 
 PHOTO SOURCES
