@@ -4,8 +4,8 @@ title: Environmental Science and the Impact of Resource Extraction and the
   Climate Crisis
 thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 ---
-<img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png[](https://www.liberalarts.org/wp-content/uploads/2015/12/logo-haverford.png)" alt="Observed and Projected Changes in Annual Average Temperature" width="300" height="300"> 
-
+<img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="Haverford College" width=500" height="300"
+ad
 # Why study ecological changes?
 
 [Cumulative Environmental Impacts in the Gwich'in Cultural ...https://www.mdpi.com › pdf](https://www.mdpi.com/2071-1050/12/11/4667/pdf)
@@ -67,38 +67,34 @@ Analysis of various environmental changes affecting Alaskan ecosystems due to cl
 
 The presence of industry and development in the Gwich’in Settlement Region in the Alaskan Arctic has amplified immediate anthropogenic changes, as well. More specifically, oil and gas extraction, resource mining, and construction in the northern regions all contribute to significant ecosystem instability. The land within the Gwich’in Settlement Region “represents a cultural landscape characterized by features linked to oral traditions and multigenerational land use,” which is now under threat by Western development (1). As a result of increased industrialization within the Gwich’in Settlement Region, the integrity of the Alaskan boreal forest and permafrost-ridden tundra is under assault: “The rapid encroachment of oil and gas, forestry and agriculture… has caused a reduction in habitat quality of woodland caribou (Rangifer tarandus caribou) through the fragmentation of the boreal forest landscapes by roads, seismic lines, and oil and gas wells” (4). When the boreal forest becomes weakened, the vegetation is younger, driving a shift in the types of organisms that coinhabit the landscape, which is generally less suitable for the persistence of the culturally-significant Porcupine Caribou Herd. As noted by Bernadette Demientieff, Executive Director of the Gwich’in Steering Committee, “The imminent oil and gas development will cause serious and irreparable harm to the Porcupine Caribou Herd and our way of life. We are caribou people and the caribou are essential to our health, identity, spirituality, culture, and our very survival” (5). 
 
+[\
+https://link.springer.com/article/10.1007/s10531-008-9376-6](https://link.springer.com/article/10.1007/s10531-008-9376-6) 
 
-
-<https://link.springer.com/article/10.1007/s10531-008-9376-6> 
-
-
-
-The above article discusses the impact that development has had on the ecology and topography of the Arctic Circle, particularly in Canada. More specifically, it discusses the fragmentation of forest landscapes, the resulting impacts on caribou population and organism predation. In all, the increase in development has resulted in accentuated changes to the previously unscathed biodiversity in the Gwich’in region.
+* The above article discusses the impact that development has had on the ecology and topography of the Arctic Circle, particularly in Canada. More specifically, it discusses the fragmentation of forest landscapes, the resulting impacts on caribou population and organism predation. In all, the increase in development has resulted in accentuated changes to the previously unscathed biodiversity in the Gwich’in region.
 
 <https://thehill.com/opinion/energy-environment/527541-as-gwichin-we-will-never-stop-fighting-for-our-land> 
 
-This article discusses the negative environmental impacts that oil mining has on the Arctic ecology in Alaska. Written by Bernadette Demientieff, the executive director of the Gwich’in Steering Committee during the Trump administration, this piece reflects upon the damage that drilling in the Arctic Refuge imparts on both the cultural integrity of the region, as well as the land itself. 
-
-
+* This article discusses the negative environmental impacts that oil mining has on the Arctic ecology in Alaska. Written by Bernadette Demientieff, the executive director of the Gwich’in Steering Committee during the Trump administration, this piece reflects upon the damage that drilling in the Arctic Refuge imparts on both the cultural integrity of the region, as well as the land itself. 
 
 <https://news.uaf.edu/proposed-seismic-surveys-in-arctic-refuge-likely-to-cause-lasting-damage/>
 
-This article explains the degree of damage that development and development exploration has on the longevity of the Arctic coastal plain. More specifically, this piece delves into the impacts that seismic surveys and industrial travel have on the Arctic coastal plain. Some of these effects include changes to permafrost cover, damage to vegetation, and alterations to soil composition, all of which harm the people and wildlife who rely on the ecosystem. 
-
-
+* This article explains the degree of damage that development and development exploration has on the longevity of the Arctic coastal plain. More specifically, this piece delves into the impacts that seismic surveys and industrial travel have on the Arctic coastal plain. Some of these effects include changes to permafrost cover, damage to vegetation, and alterations to soil composition, all of which harm the people and wildlife who rely on the ecosystem. 
 
 <https://arctic-council.org/about/working-groups/acap/>
 
-The above article discusses scientific projects undertaken by the arctic council to counter pollutant contamination of the Arctic plain. This polution largely comes about as a result of increased Western development and industrialization. Specifically, persistent organic pollutants (POPs), PCB, and mercury all are consistently leaked into the Arctic, further expediting the negative impacts of  climate change and warming in the region. 
+* The above article discusses scientific projects undertaken by the arctic council to counter pollutant contamination of the Arctic plain. This polution largely comes about as a result of increased Western development and industrialization. Specifically, persistent organic pollutants (POPs), PCB, and mercury all are consistently leaked into the Arctic, further expediting the negative impacts of  climate change and warming in the region. 
 
+<https://www.fractracker.org/2021/03/the-fight-to-protect-alaskas-arctic-national-wildlife-refuge/>
 
-
-<https://www.fractracker.org/2021/03/the-fight-to-protect-alaskas-arctic-national-wildlife-refuge/> 
-
-This article provides a comprehensive overview of the history of oil drilling in the Arctic coastal plain. As described by the review, the increase in drilling has drastic implications for the Gwich’in people, the surrounding landscape, and biodiversity. Here, the article provides a deeper insight into both the timeline of industrial disturbances along the Arctic coastal plain, as well as the resulting cultural and ecological influences. 
+* The Arctic National Wildlife Refuge (ANWR) is a home to vast and fragile tundra ecosystems, a diverse environment with more than 40 fish and mammal species and over 200 bird species.
+* ANWR includes the summer calving and feeding site of the Porcupine caribou, a sacred site to the Gwich’in:
+* * The migratory route of the Porcupine caribou is 1,500 miles - the longest documented terrestrial mammal migration on Earth. The herd has made this trek to gather together for at least the past 23,000 years.
+  * As one of the ANWR’s keystone species, the caribou herd plays an integral cultural and ecological role in the Refuge: “the distribution and health of the herd is a direct indicator of the health of the entire ecosystem.” Thus, if the herd was removed from the ecosystem, “the landscape's functional integrity would suffer and drastically change.”
+  * Industrial disturbances, particularly in the form of oil and gas development, can interfere with the caribou herd’s migration patterns. They discourage the instinctual movements of pregnant and nursing caribou mothers, which would seriously diminish the population, especially given their slow reproductive rate.
 
 <https://www.nrdc.org/sites/default/files/facts1.pdf> 
 
-The above pamphlet presented by the Arctic National Wildlife Refuge explains the multi-faceted damage that oil drilling and exploration has on the environmental integrity of the Arctic Coastal Plain. To do so, the National Resource Defense Council exposes the threat that oil development has on polar bear denning, bird habitat, muskoxen, and culturally significant caribou survival.
+* The coastal plain of the ANWR considered to be the biological heart of the refuge
+* Oil development would permanently harm polar bear denning and bird habitats, and severely threaten caribou and muskoxen survival
 
 ![]()
