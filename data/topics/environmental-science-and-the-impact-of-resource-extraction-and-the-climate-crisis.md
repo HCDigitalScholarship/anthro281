@@ -52,7 +52,7 @@ Analysis of various environmental changes affecting Alaskan ecosystems due to cl
 
 * Fourth National Climate Assessment describes how continued climate change is threatening the marine and wildlife habitats that are vital to Alaska’s residents. It details ecosystem alterations that are difficult to predict and make adaptation more challenging, including ocean acidification, arctic sea ice retreat and thinning, permafrost thawing, increasing wildfires, and severe coastal and river erosion, among many other environmental changes.
 
-<img src="https://nca2018.globalchange.gov/img/figure/figure26_5.png " alt="erosion image" width="300" height="300">
+<img src="https://nca2018.globalchange.gov/img/figure/figure26_5.png " alt="erosion image" width="550" height="350">
 
 # Anthropogenic/Industry Changes to the Ecosystem
 
