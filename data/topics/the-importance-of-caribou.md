@@ -56,6 +56,12 @@ relied on by the Gwich'in for food, clothing, and other cultural practices, and 
 
   * A Gwich'in chief discusses the importance of Caribou in this article.
 * [Outside/In Presents The Refuge | Episode 3: Do It in a Good Way](https://www.nhpr.org/environment/2020-08-22/outside-in-presents-the-refuge-episode-3-do-it-in-a-good-way)
+
+  * <!--StartFragment-->
+
+    A New Hampshire Public Radio episode that includes an interview with Sarah James, the Gwich’in elder, who talks about the Gwich’in activism used to protect the caribou of the Arctic National Wildlife Refuge.
+
+    <!--EndFragment-->
 * [Gwich'in Tribe Protects Caribou and Culture](https://whyy.pbslearningmedia.org/resource/ean08.sci.life.eco.gwichin/gwichin-tribe-protects-caribou-and-culture/)
 
   * <!--StartFragment-->
