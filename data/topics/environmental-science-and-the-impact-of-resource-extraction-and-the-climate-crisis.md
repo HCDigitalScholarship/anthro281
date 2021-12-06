@@ -4,7 +4,7 @@ title: Environmental Science and the Impact of Resource Extraction and the
   Climate Crisis
 thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 ---
-<img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="Haverford College" width=500" height="300"
+<img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="annual ave temp graph" width=500" height="300"
 
 # Why study ecological changes?
 
