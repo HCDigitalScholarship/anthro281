@@ -33,11 +33,11 @@ relied on by the Gwich'in for food, clothing, and other cultural practices, and 
     Article describes the wilderness of the Arctic National Wildlife Refuge, an effort to capture the scene before impending drilling takes place. Follows a trip shared between the author and arctic guides.
 
     <!--EndFragment-->
-* [ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)
+* **[ANWR wilderness is vital to caribou, Gwich'in people in Alaska](https://www.adn.com/commentary/article/anwr-wilderness-vital-caribou-gwichin-people-alaska/2015/03/13/)**
 
-  * <!--StartFragment-->
+  <!--EndFragment--><!--StartFragment-->
 
-    Details the specifics on how drilling would impact the health of the Caribou and in turn the health of the tribe.
+  * Details the specifics on how drilling would impact the health of the Caribou and in turn the health of the tribe.
 
     <!--EndFragment-->
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
