@@ -8,8 +8,9 @@ thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 
 # Why study ecological changes?
 
-* [Cumulative Environmental Impacts in the Gwich'in Cultural ...https://www.mdpi.com › pdf](https://www.mdpi.com/2071-1050/12/11/4667/pdf)
-* * This study analyzes the cumulative environmental impacts in the cultural landscape of the Gwich’in Settlement Region in northern Canada. “The combined effects of intensified natural and anthropogenic disturbances are altering the structure and function of global ecosystems, with the potential to significantly impact the land-based livelihoods of many Indigenous groups” (1). The climate is warming more rapidly in the Arctic than in any other region on Earth, and industrial development, particularly in the form of oil and gas extraction, is increasing greatly; this combination of forces is severely threatening to Gwich’in livelihoods. 
+[Cumulative Environmental Impacts in the Gwich'in Cultural ...https://www.mdpi.com › pdf](https://www.mdpi.com/2071-1050/12/11/4667/pdf)
+
+* This study analyzes the cumulative environmental impacts in the cultural landscape of the Gwich’in Settlement Region in northern Canada. “The combined effects of intensified natural and anthropogenic disturbances are altering the structure and function of global ecosystems, with the potential to significantly impact the land-based livelihoods of many Indigenous groups” (1). The climate is warming more rapidly in the Arctic than in any other region on Earth, and industrial development, particularly in the form of oil and gas extraction, is increasing greatly; this combination of forces is severely threatening to Gwich’in livelihoods. 
 
 # Ecological Changes
 
