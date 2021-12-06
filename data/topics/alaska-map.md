@@ -7,12 +7,6 @@ Note: The layers and boundaries included on the below ArcGIS maps are not exact 
 
 [Link to ArcGIS Maps](https://arcg.is/G515e0)
 
-Native Land Digital’s interactive maps around land use by political, cultural, and social factors:
-
-(<https://native-land.ca/maps/territories/gwichin/>)
-
-![](/assets/media/anlmap.webp)
-
 Gwich’in Land Use Planning Board’s map of the Gwich’in Settlement Region: <https://www.gwichinplanning.nt.ca/theRegion/gwichin.html>
 
 Gwich’in Tribal Council’s set of maps relating to Gwich’in land use:
