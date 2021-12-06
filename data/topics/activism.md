@@ -7,26 +7,6 @@ https://mobile.twitter.com/ourarcticrefuge
 
 This page is dedicated to providing resources and places of information about the Gwich'in communities' activism on many major issues and the people who are leading these causes. While this page does not encompass every source available, these sources help to provide overviews of the ways in which the Gwich'in have been active to preserve the Arctic National Wildlife Refuge and their way of life. We hope that the sources on this page inspire more awareness of the Gwich'in's activism and provide a space to highlight the work that the Gwich'in community has and continues to accomplish. 
 
-```
- <section id="portfolio" class="portfolio">
-  <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <h4>Current Activists and their stories</h4>
-            <p></p>
-            <div class="portfolio-links">
-              <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Current Activists and their stories"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-   </section>
- 
-```
-
 1. Current activists and their stories
 
    ![](/assets/media/quannah-chasinghorse-1400.jpeg "*  <https://www.yesmagazine.org/environment/2020/09/24/alaska-indigenous-rights-anwr>")
