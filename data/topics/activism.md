@@ -14,7 +14,7 @@ This page is dedicated to providing resources and places of information about th
         <div class="portfolio-wrap">
           <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
-            <h4>Current activists and their stories</h4>
+            <h4>1. <https://grist.org/article/james1/>1. <https://www.protectthearctic.org/blog/this-is-my-church-reflections-on-the-arctic-refuge-from-sarah-james>1. <https://crcc.usc.edu/sarah-james-fighting-for-whats-sacred-in-the-arctic-national-wildlife-refuge/>*  <https://www.yesmagazine.org/environment/2020/09/24/alaska-indigenous-rights-anwr>*  <https://www.adn.com/alaska-life/2021/05/01/alaska-teen-activist-and-model-brings-indigenous-excellence-to-the-cover-of-vogue-mexico/></h4>
             <p></p>
             <div class="portfolio-links">
               <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Current Activists and their stories"><i class="bx bx-plus"></i></a>
