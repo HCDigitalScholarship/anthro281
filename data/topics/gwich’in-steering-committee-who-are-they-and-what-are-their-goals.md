@@ -5,7 +5,7 @@ thumbnail: ""
 ---
 <https://ourarcticrefuge.org/gwichin-steering-committee/>
 
-* direct link to Gwich/in Steering Committee website
+* direct link to Gwich'in Steering Committee website
 
 <https://ourarcticrefuge.org/wp-content/uploads/2012/10/GG-Resol.-2012-1.pdf>
 
