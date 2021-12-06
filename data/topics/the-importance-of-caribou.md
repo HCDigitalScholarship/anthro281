@@ -7,6 +7,9 @@ thumbnail: /assets/media/09alaska-refuge5-superjumbo.jpg
 
 #### *Sarah James (Gwich'in Elder & Activist)*
 
+Woven into the fabric of Gwich'in culture is a close spiritual relationship between the Gwich'in people and the Porcupine Caribou herd. The caribou have historically been 
+relied on by the Gwich'in for food, clothing, and other cultural practices, and the Gwich'in have been protecting the caribou and their land for thousands of years. Every summer the caribou travel roughly one thousand kilometers from the southern region of the Arctic National Wildlife Refuge to their calving grounds in the arctic coastal plain. These calving grounds are where the caribou have their young and the coastal plain is regarded as sacred by the Gwich'in. Drilling projects proposed by the United States government directly block the caribou's path to their calving grounds. Here we have compiled some resources where one can find more information on the Porcupine Caribou herd, their impact on the Gwich'in, and the threat posed by drilling to this sacred relationship.
+
 **The Caribou People** 
 
 *The Gwich’in People & Their Activism Involving Caribou*
