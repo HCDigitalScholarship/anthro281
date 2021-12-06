@@ -11,15 +11,11 @@ Note: The layers and boundaries included on the below ArcGIS maps are not exact 
 
 
 
-Native Land Digital’s interactive maps around land use by political, cultural, and social factors:
+
 
 <https://native-land.ca/maps/territories/gwichin/>
 
-
-
-![](https://lh5.googleusercontent.com/0Cwegex7CGCloh80SgZCK7Gl3tKDtDJRzsQ2TSc1byFGm_Ug3x9kc0OQxVBWbqjXX3AVF5Mwou6t3mIYOuKfrFQqdFha7UbictOrBxs1pAq2-WvtFlLPtb7KmcPTGQ19jFEfIjsO)
-
-(<https://native-land.ca/maps/territories/gwichin/>)
+![(<https://native-land.ca/maps/territories/gwichin/>)](/assets/media/anlmap.webp "Native Land Digital’s interactive maps around land use by political, cultural, and social factors:")
 
 
 
