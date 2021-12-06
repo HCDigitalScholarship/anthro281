@@ -24,22 +24,7 @@ This page is dedicated to providing resources and places of information about th
         </div>
       </div>
    </section>
-   <section id="portfolio" class="portfolio">
-  <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <h4>Current activists and their stories</h4>
-            <p></p>
-            <div class="portfolio-links">
-              <a href="../assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Current Activists and their stories"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-   </section>
+ 
 ```
 
 1. Current activists and their stories
