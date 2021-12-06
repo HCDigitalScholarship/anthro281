@@ -6,6 +6,8 @@ thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 ---
 <img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="Temperature Change" width="500" height="300"> 
 
+https://nca2018.globalchange.gov/img/figure/figure26_1.png 
+
 # Ecological Changes
 
 ## Climate Changes and Caribou/the Gwich’in lifestyle
@@ -52,6 +54,12 @@ Analysis of various environmental changes affecting Alaskan ecosystems due to cl
 <https://nca2018.globalchange.gov/chapter/26/> 
 
 * Fourth National Climate Assessment describes how continued climate change is threatening the marine and wildlife habitats that are vital to Alaska’s residents. It details ecosystem alterations that are difficult to predict and make adaptation more challenging, including ocean acidification, arctic sea ice retreat and thinning, permafrost thawing, increasing wildfires, and severe coastal and river erosion, among many other environmental changes.
+
+
+
+<img src="https://nca2018.globalchange.gov/img/figure/figure26_5.png" alt="Temperature Change" width="500" height="300"> 
+
+https://nca2018.globalchange.gov/img/figure/figure26_5.png
 
 # Anthropogenic/Industry Changes to the Ecosystem
 
