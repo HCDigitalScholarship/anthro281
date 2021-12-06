@@ -13,10 +13,6 @@ Gwich’in Steering Committee’s information on Gwich’in communities:
 
 <https://ourarcticrefuge.org/about-the-gwichin/where-the-gwichin-live/>
 
-Shot in the Dark Production’s Annual Migration of the Porcupine Caribou Herd, created on September 25, 2018:
-
-<https://vimeo.com/291742107>
-
 PHOTO SOURCES
 
 “Aklavik.” In Wikipedia, October 17, 2021. <https://en.wikipedia.org/w/index.php?title=Aklavik&oldid=1050332468>.
