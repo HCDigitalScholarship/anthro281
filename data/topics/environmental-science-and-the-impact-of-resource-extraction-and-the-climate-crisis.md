@@ -5,7 +5,7 @@ title: Environmental Science and the Impact of Resource Extraction and the
 thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 ---
 <img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="Haverford College" width=500" height="300"
-ad
+
 # Why study ecological changes?
 
 [Cumulative Environmental Impacts in the Gwich'in Cultural ...https://www.mdpi.com › pdf](https://www.mdpi.com/2071-1050/12/11/4667/pdf)
