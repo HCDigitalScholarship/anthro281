@@ -101,6 +101,10 @@ National Resource Defense Council Report on Oil Development and Arctic Biodivers
 
 * The above pamphlet presented by the Arctic National Wildlife Refuge explains the multi-faceted damage that oil drilling and exploration has on the environmental integrity of the Arctic Coastal Plain. To do so, the National Resource Defense Council exposes the threat that oil development has on polar bear denning, bird habitat, muskoxen, and culturally significant caribou survival.
 
+In-Depth Overview of Human-Catalyzed Environmental Damages in the Arctic:
 
+**<https://nca2018.globalchange.gov/chapter/26/>**\
+\
+Includes informaiton regarding acidification, wildfires, fisheries, erosion, and their effects on the ecosystem, wildlife, and human health.
 
 ![]()
