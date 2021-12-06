@@ -12,7 +12,7 @@ This page is dedicated to providing resources and places of information about th
   <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="300">      
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="https://www.yesmagazine.org/environment/2020/09/24/alaska-indigenous-rights-anwr" class="img-fluid" alt="">
+          <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <h4>Current Activists and their stories</h4>
             <p></p>
