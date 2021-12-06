@@ -4,7 +4,9 @@ title: Environmental Science and the Impact of Resource Extraction and the
   Climate Crisis
 thumbnail: /assets/media/noaa-jwrjlv-hywo-unsplash.jpg
 ---
+
 <img src="https://nca2018.globalchange.gov/img/figure/figure26_1.png" alt="Temperature Change" width="500" height="300"> 
+
 
 # Why study ecological changes?
 
@@ -46,11 +48,11 @@ Permafrost and Caribou Patterns:
 
 Analysis of various environmental changes affecting Alaskan ecosystems due to climate change:
 
-<img src="[](https://www.liberalarts.org/wp-content/uploads/2015/12/logo-haverford.png)[](https://nca2018.globalchange.gov/chapter/26/)https://nca2018.globalchange.gov/img/figure/figure26_5.png" alt="Erosion" width="300" height="300">
-
 <https://nca2018.globalchange.gov/chapter/26/> 
 
 * Fourth National Climate Assessment describes how continued climate change is threatening the marine and wildlife habitats that are vital to Alaska’s residents. It details ecosystem alterations that are difficult to predict and make adaptation more challenging, including ocean acidification, arctic sea ice retreat and thinning, permafrost thawing, increasing wildfires, and severe coastal and river erosion, among many other environmental changes.
+
+<img src="https://nca2018.globalchange.gov/img/figure/figure26_5.png " alt="erosion image" width="300" height="300">
 
 # Anthropogenic/Industry Changes to the Ecosystem
 
@@ -64,6 +66,8 @@ Analysis of various environmental changes affecting Alaskan ecosystems due to cl
 
 * Leaching of oil/gas components into the biosphere
 * Noise pollution
+
+
 
 The presence of industry and development in the Gwich’in Settlement Region in the Alaskan Arctic has amplified immediate anthropogenic changes, as well. More specifically, oil and gas extraction, resource mining, and construction in the northern regions all contribute to significant ecosystem instability. The land within the Gwich’in Settlement Region “represents a cultural landscape characterized by features linked to oral traditions and multigenerational land use,” which is now under threat by Western development (1). As a result of increased industrialization within the Gwich’in Settlement Region, the integrity of the Alaskan boreal forest and permafrost-ridden tundra is under assault: “The rapid encroachment of oil and gas, forestry and agriculture… has caused a reduction in habitat quality of woodland caribou (Rangifer tarandus caribou) through the fragmentation of the boreal forest landscapes by roads, seismic lines, and oil and gas wells” (4). When the boreal forest becomes weakened, the vegetation is younger, driving a shift in the types of organisms that coinhabit the landscape, which is generally less suitable for the persistence of the culturally-significant Porcupine Caribou Herd. As noted by Bernadette Demientieff, Executive Director of the Gwich’in Steering Committee, “The imminent oil and gas development will cause serious and irreparable harm to the Porcupine Caribou Herd and our way of life. We are caribou people and the caribou are essential to our health, identity, spirituality, culture, and our very survival” (5). 
 
