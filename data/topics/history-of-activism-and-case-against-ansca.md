@@ -17,3 +17,7 @@ title: History of Activism and Case Against ANSCA
 <https://www.washingtonpost.com/outlook/2021/03/14/indigenous-advocacy-transformed-fight-over-oil-drilling-arctic-refuge/>
 
 * Indigenous advocacy transforming drilling in the arctic throughout history
+
+<https://ourarcticrefuge.org/resources/>
+
+* resource bank from Gwich'in Steering Committee
