@@ -7,14 +7,6 @@ Note: The layers and boundaries included on the below ArcGIS maps are not exact 
 
 [Link to ArcGIS Maps](https://arcg.is/G515e0)
 
-Gwich’in Land Use Planning Board’s map of the Gwich’in Settlement Region: <https://www.gwichinplanning.nt.ca/theRegion/gwichin.html>
-
-Gwich’in Tribal Council’s set of maps relating to Gwich’in land use:
-
-<https://www.gwichintribal.ca/maps.html>
-
-[![](https://lh6.googleusercontent.com/JKTNFa-lRVFTjsSQfyvQ_zk2KFW2GYPT4nXovQHGprXSDx760TszfIsf9vCoqvTabu6k95-FzgCXlI1ylQL5lHv8HD4kPQaZDpugCvmzRDrFLJ1OpU_ELoJ0tQFD5zHpF8ockKGB)](https://storymaps.arcgis.com/stories/db5d987e73704eedb3ea22f7d8d8f808)
-
 (<https://www.sfgate.com/green/article/THE-LAST-REFUGE-Caribou-migration-drilling-2614084.php#photo-2100858>)
 
 Gwich’in Steering Committee’s information on Gwich’in communities:
