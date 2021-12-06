@@ -7,14 +7,13 @@ description: |-
 
   3. Alaskan Natives unite against Trump
 link: >-
-  1.
   https://www.culturalsurvival.org/news/gwichin-steering-committee-responds-trumps-sale-sacred-lands-arctic-refuge
 
 
-  2. https://lrinspire.com/2020/08/17/gwichin-steering-committee-statement-on-trump-administration-push-to-drill-in-the-arctic-refuge/
+  https://lrinspire.com/2020/08/17/gwichin-steering-committee-statement-on-trump-administration-push-to-drill-in-the-arctic-refuge/
 
 
-  3. https://www.wilderness.org/articles/blog/alaska-natives-frontline-another-lands-battle
+  https://www.wilderness.org/articles/blog/alaska-natives-frontline-another-lands-battle
 thumbnail: /assets/media/featured.jpg
 topic: Gwich'in Activism, Past and Present
 filters: []
