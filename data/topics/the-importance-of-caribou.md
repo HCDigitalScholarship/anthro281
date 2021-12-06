@@ -39,7 +39,8 @@ relied on by the Gwich'in for food, clothing, and other cultural practices, and 
 
 * Details the specifics on how drilling would impact the health of the Caribou and in turn the health of the tribe.
 
-  <!--EndFragment-->
+<!--EndFragment-->
+
 * [Caribou People](https://alaskamagazine.com/authentic-alaska/culture/caribou-people/)
 
   * <!--StartFragment-->
