@@ -3,8 +3,6 @@ layout: topic
 title: Mapping Alaska Land Use
 thumbnail: ""
 ---
-Note: The layers and boundaries included on the below ArcGIS maps are not exact and are provided for the purposes of comparison and visualization.
-
 PHOTO SOURCES FROM ARCGIS MAPS
 
 “Aklavik.” In Wikipedia, October 17, 2021. <https://en.wikipedia.org/w/index.php?title=Aklavik&oldid=1050332468>.
