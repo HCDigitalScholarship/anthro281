@@ -3,6 +3,56 @@ layout: topic
 title: Mapping Alaska Land Use
 thumbnail: ""
 ---
+Note: The layers and boundaries included on the below ArcGIS maps are not exact and are provided for the purposes of comparison and visualization.
+
+
+
+[Link to ArcGIS Maps](https://arcg.is/G515e0)
+
+
+
+Native Land Digital’s interactive maps around land use by political, cultural, and social factors:
+
+<https://native-land.ca/maps/territories/gwichin/>
+
+
+
+![](https://lh5.googleusercontent.com/0Cwegex7CGCloh80SgZCK7Gl3tKDtDJRzsQ2TSc1byFGm_Ug3x9kc0OQxVBWbqjXX3AVF5Mwou6t3mIYOuKfrFQqdFha7UbictOrBxs1pAq2-WvtFlLPtb7KmcPTGQ19jFEfIjsO)
+
+(<https://native-land.ca/maps/territories/gwichin/>)
+
+
+
+Gwich’in Land Use Planning Board’s map of the Gwich’in Settlement Region: <https://www.gwichinplanning.nt.ca/theRegion/gwichin.html>
+
+
+
+Gwich’in Tribal Council’s set of maps relating to Gwich’in land use:
+
+<https://www.gwichintribal.ca/maps.html>
+
+
+
+[![](https://lh6.googleusercontent.com/JKTNFa-lRVFTjsSQfyvQ_zk2KFW2GYPT4nXovQHGprXSDx760TszfIsf9vCoqvTabu6k95-FzgCXlI1ylQL5lHv8HD4kPQaZDpugCvmzRDrFLJ1OpU_ELoJ0tQFD5zHpF8ockKGB)](https://storymaps.arcgis.com/stories/db5d987e73704eedb3ea22f7d8d8f808)
+
+(<https://www.sfgate.com/green/article/THE-LAST-REFUGE-Caribou-migration-drilling-2614084.php#photo-2100858>)
+
+
+
+Gwich’in Steering Committee’s information on Gwich’in communities:
+
+<https://ourarcticrefuge.org/about-the-gwichin/where-the-gwichin-live/>
+
+
+
+Shot in the Dark Production’s Annual Migration of the Porcupine Caribou Herd, created on September 25, 2018:
+
+<https://vimeo.com/291742107>
+
+
+
+
+
 PHOTO SOURCES
 
 “Aklavik.” In Wikipedia, October 17, 2021. <https://en.wikipedia.org/w/index.php?title=Aklavik&oldid=1050332468>.
