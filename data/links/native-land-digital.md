@@ -1,5 +1,6 @@
 ---
-title: Native Land Digital
+title: Native Land Digital’s interactive maps around land use by political,
+  cultural, and social factors
 description: Native Land Digital’s interactive maps around land use by
   political, cultural, and social factors
 link: https://native-land.ca/maps/territories/gwichin/
