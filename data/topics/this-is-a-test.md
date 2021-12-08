@@ -18,7 +18,7 @@ The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous t
 
 This is a short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
-Gwich’in cultural resources/websites:
+Gwich'in Cultural Resources/Websites
 
 The Gwich’in Steering Committee:
 
