@@ -34,9 +34,6 @@ This article describes caribou migration in the Arctic National Wildlife Refuge,
 
 “‘We Are Having a Hard Time Surviving’ Gwich’in Elder Sarah James on How Climate Change is Altering Life in the Alaskan Arctic”
 
-<https://www.youtube.com/watch?v=-90IRnL49jA>
-
-Short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
 The Alaska Native Language Center:
 
