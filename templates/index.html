@@ -12,19 +12,21 @@
     </div>
 
 
-
-
     <div class="row icon-boxes">
       {% for t in topics %}
-      <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" style="padding:4px;" data-aos="zoom-in" data-aos-delay="200">
-        <div class="icon-box">
-          <h4><a href="/topic/{{t.stem}}">{{ t.title }}</a></h4>
-          <img class="img-fluid" src="{{ t.thumbnail }}">
-          </div>
+      <div class="col-md-6 col-lg-3 align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
+        <a style=" display: block; height: 100%; width: 100%; text-decoration: none;" href="/topic/{{t.stem}}">
+
+          <div class="icon-box">
+            <div class="icon"><i class="ri-earth-fill"></i></div>
+            <h4 class="title">{{ t.title }}
+        </a></h4>
       </div>
-      
+      </a>
+    </div>
+
     {% endfor %}
-  </div>
+
 
   </div>
   </div>
@@ -211,8 +213,8 @@
 
       <p style="text-align:center;">
       <img src="https://64.media.tumblr.com/5370c4652f2e2d6a5b97f1a0098677a2/587d7a2477e0fd13-91/s2048x3072/d2b80b225cbb586ce57f738ebbf78ad412df0a05.jpg" alt="group photo" width="600" height="450">
-      <img src="https://64.media.tumblr.com/83ff558bd616017f850577a669aea638/67fa7a9219c11cd4-30/s1280x1920/5eca8645230c88791b93543eaaf372b3a6a79e70.jpg" alt="us working" width="300" height="300">
-      
+      <img src="https://64.media.tumblr.com/83ff558bd616017f850577a669aea638/67fa7a9219c11cd4-30/s1280x1920/5eca8645230c88791b93543eaaf372b3a6a79e70.jpg" alt="us working" width="300" height="250">
+      <img src= "https://64.media.tumblr.com/195aa6aef37ecb01ccf0395b074760fa/e71021ce399b71fa-1b/s1280x1920/2954d44e3abfecb1f65c1860f32001c20e7f2de9.jpg" alt= "group" width="300" height="250">
 
     </div>
   </section><!-- End Team Section -->
