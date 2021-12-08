@@ -13,7 +13,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "topic"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false}
+      - {label: "Featured Image", name: "thumbnail",  default: "/assets/img/hero-bg.jpg", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "link"
