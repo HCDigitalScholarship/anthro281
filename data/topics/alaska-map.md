@@ -17,6 +17,4 @@ GWICH’IN TRIBAL COUNCIL. “MAPS.” Accessed December 1, 2021. <https://www.g
 
 Native-Land.ca. “Gwich’in Nành.” Accessed December 1, 2021. <https://native-land.ca/maps/territories/gwichin/>.
 
-Native-Land.ca. “Gwich’in Nành.” Accessed December 1, 2021. <https://native-land.ca/maps/territories/gwichin/>.
-
 .Productions, Shot in the Dark. Porcupine Caribou Herd Annual Migration, 2018. <https://vimeo.com/291742107>.
