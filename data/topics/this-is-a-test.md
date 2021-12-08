@@ -12,7 +12,7 @@ The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous t
 
 <body>
     <embed src="https://youtu.be/-90IRnL49jA"
-        width="560" height="315" title=""We Are Having a Hard Time Surviving" - Gwich'in Elder Sarah James">
+        width="560" height="315" title="Video: "We Are Having a Hard Time Surviving" - Gwich'in Elder Sarah James">
 </body>
 
 This is a short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit
