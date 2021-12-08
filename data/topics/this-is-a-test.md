@@ -4,16 +4,15 @@ title: Who Are the Gwich'in?
 ---
 <h1 style="font-size:20px;color:blue;text-align:center;font-family:'Times New Roman'"> "The word “Gwich’in” means “people of the land,” and it refers to a people who have lived in the region since before the U.S. and Canada existed."</h1>
 
-“We are caribou people.  Caribou are not just what we eat; they are who we are.  They are in our stories and songs and the whole way we see the world.  Caribou are our life.  Without caribou we wouldn’t exist”.  ~Sarah James (<https://ourarcticrefuge.org/about-the-gwichin/>)
-
 The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous to the land in the far north, and live among 15 villages in the white settler states of Alaska, the Yukon, and the Northwest Territories. The name Gwich’in means ‘people of the land,’ and refers to the land that the Gwich’in have occupied for at least the last 20,000 years. The Gwich’in people call themselves ‘the Caribou people’ because of the deep spiritual connection that they share with Caribou and the Porcupine Caribou Herd. The Gwich’in are currently fighting against oil drilling projects in the Arctic National Refuge that are a serious danger to the lives of the Gwich’in, the caribou, and other wildlife and the ecosystem of the region.
+
+##### **“We are caribou people.  Caribou are not just what we eat; they are who we are.  They are in our stories and songs and the whole way we see the world.  Caribou are our life.  Without caribou we wouldn’t exist”.  ~Sarah James** (<https://ourarcticrefuge.org/about-the-gwichin/>)
 
 “‘We Are Having a Hard Time Surviving’ Gwich’in Elder Sarah James on How Climate Change is Altering Life in the Alaskan Arctic”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-90IRnL49jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit
-
 
 **Gwich’in cultural resources/websites:**
 
@@ -31,6 +30,9 @@ This article describes caribou migration in the Arctic National Wildlife Refuge,
 
 “‘We Are Having a Hard Time Surviving’ Gwich’in Elder Sarah James on How Climate Change is Altering Life in the Alaskan Arctic”
 
+<https://www.youtube.com/watch?v=-90IRnL49jA>
+
+Short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
 The Alaska Native Language Center:
 
@@ -66,9 +68,11 @@ This resource provides general information on caribou and why they matter to the
 
 The GTG Department of Cultural Heritage; Gwich’in Social & Cultural Institute provides information on the Gwich’in peoples in Canada. The goal of the institution is “to conduct research in the areas of culture, language and traditional knowledge so that this body of knowledge would be recorded and available for future generations and the development of programs appropriate for Gwich'in needs.” Research projects have been carried out among contributions from Elders of the Gwich’in communities in Canada and the GSCI staff.
 
-Living on Thin Ice : The Gwich'in Natives of Alaska - Dinero, Steven C. 
+
 
 <https://ebookcentral.proquest.com/lib/haverford/reader.action?docID=4197982&query=&ppg=139> 
+
+Living on Thin Ice : The Gwich'in Natives of Alaska - Dinero, Steven C. 
 
 “Both the “scientiﬁc” approach and the incorporation of traditional ecological knowledge (TEK) are used here and in previous studies of Arctic Village climate change in order to better understand how climate, environment, subsistence, and economy all conﬂate at this critical time in the village’s short history” (Dinero 2013: 121).
 
