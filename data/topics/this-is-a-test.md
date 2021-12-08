@@ -6,7 +6,7 @@ title: Who Are the Gwich'in?
 
 The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous to the land in the far north, and live among 15 villages in the white settler states of Alaska, the Yukon, and the Northwest Territories. The name Gwich’in means ‘people of the land,’ and refers to the land that the Gwich’in have occupied for at least the last 20,000 years. The Gwich’in people call themselves ‘the Caribou people’ because of the deep spiritual connection that they share with Caribou and the Porcupine Caribou Herd. The Gwich’in are currently fighting against oil drilling projects in the Arctic National Refuge that are a serious danger to the lives of the Gwich’in, the caribou, and other wildlife and the ecosystem of the region.
 
-“We are caribou people.  Caribou are not just what we eat; they are who we are.  They are in our stories and songs and the whole way we see the world.  Caribou are our life.  Without caribou we wouldn’t exist”.  ~Sarah James (<https://ourarcticrefuge.org/about-the-gwichin/>)
+##### **“We are caribou people.  Caribou are not just what we eat; they are who we are.  They are in our stories and songs and the whole way we see the world.  Caribou are our life.  Without caribou we wouldn’t exist”.  ~Sarah James** (<https://ourarcticrefuge.org/about-the-gwichin/>)
 
 “‘We Are Having a Hard Time Surviving’ Gwich’in Elder Sarah James on How Climate Change is Altering Life in the Alaskan Arctic”
 
