@@ -14,3 +14,7 @@ Different indigenous campaigns and practices for environmental activism
 Stances on oil drilling, for and against
 
 * <https://www.alaskapublic.org/2019/07/02/in-arctic-village-gwichin-leaders-say-the-fight-to-stop-drilling-in-the-arctic-refuge-isnt-over/>
+
+Resource bank from Gwich'in Steering Committee
+
+* <https://ourarcticrefuge.org/resources/>
