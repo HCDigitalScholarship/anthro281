@@ -53,7 +53,7 @@
           <li class="dropdown"><a href="#"><span>Topics</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
                 {% for t in topics %}
-                    <li><a href="/topic/{{t.stem}}">{{ t.title }}</a></li>
+                    <li><a style="white-space: pre-wrap;" href="/topic/{{t.stem}}">{{ t.title }}</a></li>
                 {% endfor %}
         
             </ul>
