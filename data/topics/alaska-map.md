@@ -1,7 +1,7 @@
 ---
 layout: topic
 title: Mapping Alaska Land Use
-thumbnail: ""
+thumbnail: /assets/media/screen-shot-2021-12-15-at-1.19.59-pm.png
 ---
 “About the Gwich’in Language – Gwich’in Language.” Accessed December 1, 2021. <https://gwichin.community.uaf.edu/about-the-gwichin-language/>.
 
