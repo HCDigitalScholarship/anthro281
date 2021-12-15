@@ -12,6 +12,15 @@ templates = Jinja2Templates(directory="templates")
 topics_path = Path.cwd() / 'data' / 'topics'
 links_path = Path.cwd() / 'data' / 'links'
 
+#     and then Gwich'in Response to Trump's sale of land. 
+subtopics = [
+    'current-activists-and-their-stories',
+    'gwich’in-steering-committee-who-are-they-and-what-are-their-goals',
+    'gwichin-activism-through-education-on-current-issues',
+    'history-of-activism-and-case-against-ansca',
+    'gwich’in-response-to-trump’s-sale-of-land'
+]
+
 def load_topics(stem=None):
     if stem:
         try:
@@ -19,7 +28,7 @@ def load_topics(stem=None):
         except IndexError:
             raise HTTPException(status_code=404, detail="Topic not found")
     else:    
-        topic_files = [(a.stem,frontmatter.load(a)) for a in topics_path.iterdir()]
+        topic_files = [(a.stem,frontmatter.load(a)) for a in topics_path.iterdir() is a.stem not in subtopics]
     topics = []
     for t in topic_files: 
         stem = t[0]
