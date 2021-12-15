@@ -28,7 +28,7 @@ def load_topics(stem=None):
         except IndexError:
             raise HTTPException(status_code=404, detail="Topic not found")
     else:    
-        topic_files = [(a.stem,frontmatter.load(a)) for a in topics_path.iterdir() is a.stem not in subtopics]
+        topic_files = [(a.stem,frontmatter.load(a)) for a in topics_path.iterdir() if a.stem not in subtopics]
     topics = []
     for t in topic_files: 
         stem = t[0]
