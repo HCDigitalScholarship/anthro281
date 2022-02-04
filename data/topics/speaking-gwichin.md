@@ -16,4 +16,4 @@ The Gwich'in language, named Dinjii Zhu’ Ginjik, is spoken by just a few hundr
 
   ![Gwich'in Fish Chart](/assets/media/screenshot-2022-02-04-3.01.53-am.png)
 
-  [](https://static1.squarespace.com/static/5c18352ef2e6b1edccdd9078/t/5cb7a99571c10bb0fbbd336f/1555540907171/Gwich%27in+Junior+Dictionary.pdf)
+  Gwich'in Fish chart provided by [Yukon Flats Indigenous Language Revitalization Institute](https://www.ygs-catg.org/language-resources)[](https://static1.squarespace.com/static/5c18352ef2e6b1edccdd9078/t/5cb7a99571c10bb0fbbd336f/1555540907171/Gwich%27in+Junior+Dictionary.pdf)
