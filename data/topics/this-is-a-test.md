@@ -33,6 +33,10 @@ This article describes caribou migration in the Arctic National Wildlife Refuge,
 
 <https://www.youtube.com/watch?v=-90IRnL49jA>
 
+
+
+*Sarah James, Board Member of the Gwich'in Steering Committee*
+
 Short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
 The Alaska Native Language Center:
