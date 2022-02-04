@@ -69,16 +69,6 @@ This resource provides general information on caribou and why they matter to the
 
 The GTG Department of Cultural Heritage; Gwich’in Social & Cultural Institute provides information on the Gwich’in peoples in Canada. The goal of the institution is “to conduct research in the areas of culture, language and traditional knowledge so that this body of knowledge would be recorded and available for future generations and the development of programs appropriate for Gwich'in needs.” Research projects have been carried out among contributions from Elders of the Gwich’in communities in Canada and the GSCI staff.
 
-
-
-<https://ebookcentral.proquest.com/lib/haverford/reader.action?docID=4197982&query=&ppg=139> 
-
-Living on Thin Ice : The Gwich'in Natives of Alaska - Dinero, Steven C. 
-
-“Both the “scientiﬁc” approach and the incorporation of traditional ecological knowledge (TEK) are used here and in previous studies of Arctic Village climate change in order to better understand how climate, environment, subsistence, and economy all conﬂate at this critical time in the village’s short history” (Dinero 2013: 121).
-
-This book provides insight to who the Gwich’in people are and their interactions with the environment and a changing climate 
-
 <https://storymaps.arcgis.com/stories/c51710fa8124456283fabecb3cc9c4c5> (The Gwich’in & The Arctic National Wildlife Refuge - A Fight Against Oil Development in the Arctic) 
 
 “The Gwich’in & The Arctic National Wildlife Refuge” discusses the efforts that the Gwich’in have made to prevent oil drilling in the 1002 area of the Arctic National Wildlife Refuge (ANWR). The 1002 area refers to a 1.5 million acre plot of land in the northern-most coastal plain of the ANWR, the only part of the 19 million acre ANWR that is unprotected by the Alaska National Interest Lands Conservation Act (ANILCA), established by President Carter in 1980. Section 1002 of ANILCA left these 1.5 million acres of land -- the primary calving grounds for the Porcupine caribou, which are sacred to the Gwich’in who rely on them for subsistence hunting and survival -- open to future oil and gas development. This source discusses the legislative and legal efforts that the Gwich’in have made to protect the 1002 area of the ANWR. 
