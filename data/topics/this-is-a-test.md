@@ -13,6 +13,8 @@ The Gwich’in are a nation of Athabaskan speaking peoples that are indigenous t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-90IRnL49jA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Sarah James, Board Member of the Gwich'in Steering Committee*
+
 This is a short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit
 
 **Gwich’in cultural resources/websites:**
@@ -34,8 +36,6 @@ This article describes caribou migration in the Arctic National Wildlife Refuge,
 <https://www.youtube.com/watch?v=-90IRnL49jA>
 
 
-
-*Sarah James, Board Member of the Gwich'in Steering Committee*
 
 Short video of Gwich’in elder Sarah James speaking about the irreparable damage climate change is causing in the Arctic, when she traveled to Copenhagen in 2009 for the Klimaforum summit.
 
