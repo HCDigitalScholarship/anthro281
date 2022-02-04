@@ -69,6 +69,8 @@ This resource provides general information on caribou and why they matter to the
 
 ![For the Gwich'in People, the Arctic National Wildlife Refuge Isn't a Political Issue, It's Home](https://lh5.googleusercontent.com/YCmRpPBEdBuGefBUoqHvUDC-pjhId04vkjGjzrrsXHIrijgKyftkGM7IDk_e8tusGhHMMmvmoSALg8jl3PWRXA4wqbmgDxvImY-4CZH3BFSIGLG3E6z3xxG6CBHNgx1Qx1WKIG21)
 
+*Jewels Gilbert*
+
 <https://gwichin.ca/projects> 
 
 The GTG Department of Cultural Heritage; Gwich’in Social & Cultural Institute provides information on the Gwich’in peoples in Canada. The goal of the institution is “to conduct research in the areas of culture, language and traditional knowledge so that this body of knowledge would be recorded and available for future generations and the development of programs appropriate for Gwich'in needs.” Research projects have been carried out among contributions from Elders of the Gwich’in communities in Canada and the GSCI staff.
