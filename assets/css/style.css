@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #7a604f;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
 }
