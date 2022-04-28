@@ -63,6 +63,10 @@ Book: Neerihiinjìk : Johnny Sarah hàa googwandak We traveled from place to p
 
 ![](https://lh3.googleusercontent.com/lBUIWtmpqrC1pn6WC6KUqhb8RzTcINBj0fasHgud9i36xjja0XpMfFbgA-Xo3Fex6Ycy68jM20pK1-Y7gdSTSd1Lw9vTdktzxge53OYZmB2eqwfaJVcv6PDeBdwI5TiSFuwhaw2p)
 
+*Bernadette Demientieff, executive director of the Gwich’in Steering Committee.*
+
+
+
 <https://www.smithsonianmag.com/science/gwichin-people-arctic-national-wildlife-refuge-180979001/>  
 
 Smithsonian Magazine: “For the Gwich’in People, the Arctic National Wildlife Refuge Isn’t a Political Issue, It’s Home”
