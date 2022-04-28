@@ -345,7 +345,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   position: relative;
   background-color: #18d26e;
-  background-image: url('https://alaskaconservation.org/wp-content/uploads/2018/07/Cropped-Carib.jpg') top center;
+  background-image: url('https://alaskaconservation.org/wp-content/uploads/2018/07/Cropped-Carib.jpg');
   background-size: cover;
   position: relative;
 }
